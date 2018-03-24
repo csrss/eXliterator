@@ -1,5 +1,7 @@
 # eXliterator
 
+![alt text](https://github.com/csrss/eXliterator/blob/master/Img/translit2.PNG)
+
 An early project, application that can transliterate different windows. What it means, you may ask. Transliteration is 
 when you type some word in source language, and then letters which you type, are replaced with letters in target language. 
 This application designed to transliterate latin written letters to a cyrilic letters. So for instance, you may launch 
